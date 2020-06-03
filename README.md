@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://github.com/vtspereira/teste/blob/master/ecoleta.png?raw=true"/>
+    <img src=".github/ecoleta.png"/>
 </h1>
 
 <h4 align="center"> 
@@ -45,7 +45,7 @@ Ecoleta is a project developed based on international environment week.
 That aims to connect people to companies that collect specific waste such as light bulbs, batteries, cooking oil, etc.
 
 <h1 align="center">
-    <img alt="Example" title="Example" src="https://github.com/vtspereira/teste/blob/master/ecoleta_home.jpg?raw=true" width="100%" />
+    <img alt="Example" title="Example" src=".github/ecoleta_home.jpg" width="100%" />
 </h1>
 
 
