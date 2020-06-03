@@ -53,9 +53,9 @@ That aims to connect people to companies that collect specific waste such as lig
 
 This project was developed with the following technologies:
 
-- [Html][html]
-- [CSS][css]
-- [JS][js]
+- [JavaScript](https://www.learn-js.org/)
+- [Css](https://www.w3schools.com/css/)
+- [Html](https://www.learn-html.org/)
 
 ## 🔖 Layout
 
